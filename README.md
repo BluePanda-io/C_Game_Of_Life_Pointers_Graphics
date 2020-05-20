@@ -12,6 +12,8 @@ The evolution is determined by the initial state, and in my version of the progr
 is determined randomly, as the grid is filled with cells which are initially either alive or dead.
 
 # DISPLAY:
+<img src="Images/gameOfLife.gif" width="380">
+
 The result is displayed with graphics, the attached module gol_display.c and header file gol_display.h
 are based on the module from the sketch program, but extended for the needs of the program.
 The alive cells are denoted with dark blue color and the dead with light grey color.
